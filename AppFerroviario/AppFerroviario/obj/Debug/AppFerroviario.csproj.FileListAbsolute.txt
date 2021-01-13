@@ -1,0 +1,9 @@
+C:\Users\SPARTAN PC\source\repos\AppFerroviario\AppFerroviario\bin\Debug\AppFerroviario.exe.config
+C:\Users\SPARTAN PC\source\repos\AppFerroviario\AppFerroviario\bin\Debug\AppFerroviario.exe
+C:\Users\SPARTAN PC\source\repos\AppFerroviario\AppFerroviario\bin\Debug\AppFerroviario.pdb
+C:\Users\SPARTAN PC\source\repos\AppFerroviario\AppFerroviario\obj\Debug\AppFerroviario.csprojAssemblyReference.cache
+C:\Users\SPARTAN PC\source\repos\AppFerroviario\AppFerroviario\obj\Debug\AppFerroviario.Form1.resources
+C:\Users\SPARTAN PC\source\repos\AppFerroviario\AppFerroviario\obj\Debug\AppFerroviario.Properties.Resources.resources
+C:\Users\SPARTAN PC\source\repos\AppFerroviario\AppFerroviario\obj\Debug\AppFerroviario.csproj.GenerateResource.cache
+C:\Users\SPARTAN PC\source\repos\AppFerroviario\AppFerroviario\obj\Debug\AppFerroviario.exe
+C:\Users\SPARTAN PC\source\repos\AppFerroviario\AppFerroviario\obj\Debug\AppFerroviario.pdb
